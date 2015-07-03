@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WcfService
+</name>
+</assembly>
+<members>
+<member name="M:WcfService.RESTService.XMLData(System.String)">
+	<summary>
+ Obtener datos como xml
+ </summary>
+	<param name="id">identificador</param>
+	<returns>Cadena xml</returns>
+	<remarks></remarks>
+</member><member name="M:WcfService.RESTService.JSONData(System.String)">
+	<summary>
+ Obtener datos como json
+ </summary>
+	<param name="id">Identificador</param>
+	<returns>Cadena json</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

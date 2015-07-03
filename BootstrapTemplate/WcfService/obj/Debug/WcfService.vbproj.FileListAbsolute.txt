@@ -1,0 +1,9 @@
+E:\Datos\03_CODE\BootstrapWCFTemplate\BootstrapTemplate\WcfService\bin\WcfService.dll.config
+E:\Datos\03_CODE\BootstrapWCFTemplate\BootstrapTemplate\WcfService\bin\WcfService.dll
+E:\Datos\03_CODE\BootstrapWCFTemplate\BootstrapTemplate\WcfService\bin\WcfService.pdb
+E:\Datos\03_CODE\BootstrapWCFTemplate\BootstrapTemplate\WcfService\bin\WcfService.xml
+E:\Datos\03_CODE\BootstrapWCFTemplate\BootstrapTemplate\WcfService\obj\Debug\WcfService.Resources.resources
+E:\Datos\03_CODE\BootstrapWCFTemplate\BootstrapTemplate\WcfService\obj\Debug\WcfService.vbproj.GenerateResource.Cache
+E:\Datos\03_CODE\BootstrapWCFTemplate\BootstrapTemplate\WcfService\obj\Debug\WcfService.dll
+E:\Datos\03_CODE\BootstrapWCFTemplate\BootstrapTemplate\WcfService\obj\Debug\WcfService.xml
+E:\Datos\03_CODE\BootstrapWCFTemplate\BootstrapTemplate\WcfService\obj\Debug\WcfService.pdb
